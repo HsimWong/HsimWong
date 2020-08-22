@@ -13,7 +13,9 @@ How to reach me:
 - IM(WeChat): <a href='ryan_wong1202'>ryan_wong1202</a>
 
 
-| ![KiteAB's github stats](https://github-readme-stats.vercel.app/api?username=HsimWong&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsimWong) |
+![KiteAB's github stats](https://github-readme-stats.vercel.app/api?username=HsimWong&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HsimWong) |
 
 <!--
 **HsimWong/HsimWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
